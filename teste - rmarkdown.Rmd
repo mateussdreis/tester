@@ -1,0 +1,25 @@
+---
+title: "teste - rmarkdown"
+author: "mATEUS"
+date: "31/12/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown: minha lista
+
+- tente  
+- fazer  
+- sua  
+- própria  
+- lista 
+
+
+
+```{r cars}
+summary(cars)
+```
+
