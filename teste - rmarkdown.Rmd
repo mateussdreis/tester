@@ -17,6 +17,8 @@ knitr::opts_chunk$set(echo = TRUE)
 - própria  
 - lista 
 
+**negrito**
+*italico*
 
 
 ```{r cars}
